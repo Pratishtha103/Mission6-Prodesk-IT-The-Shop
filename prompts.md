@@ -19,6 +19,8 @@ react-router-dom.js?v=ff077798:163 No routes matched location "/product/1"
 warning @ react-router-dom.js?v=ff077798:163Understand this warning
 react-router-dom.js?v=ff077798:163 No routes matched location "/product/1""
 
+"how to use useParams"
+
 "is this alright? 
 
 ```javascriptreact
@@ -67,5 +69,3 @@ function ProductDetail(){
 }
 export default ProductDetail;
 ```"
-
-""
