@@ -4,4 +4,4 @@ Level: 1
 
 Website: https://mission6-prodesk-it-the-shop.vercel.app/
 
-![Website](website.png)
+![Website](Website.png)
